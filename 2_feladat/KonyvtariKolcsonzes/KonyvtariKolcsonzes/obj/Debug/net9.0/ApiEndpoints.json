@@ -1,0 +1,212 @@
+[
+  {
+    "ContainingType": "KonyvtariKolcsonzes.Controllers.KonyvekController",
+    "Method": "GetAll",
+    "RelativePath": "api/konyvek",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KonyvtariKolcsonzes.Controllers.KonyvekController",
+    "Method": "Create",
+    "RelativePath": "api/konyvek",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "adat",
+        "Type": "KonyvtariKolcsonzes.Controllers.KonyvekController\u002BKonyvAdat",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KonyvtariKolcsonzes.Controllers.KonyvekController",
+    "Method": "GetById",
+    "RelativePath": "api/konyvek/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KonyvtariKolcsonzes.Controllers.KonyvekController",
+    "Method": "Update",
+    "RelativePath": "api/konyvek/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "adat",
+        "Type": "KonyvtariKolcsonzes.Controllers.KonyvekController\u002BKonyvAdat",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KonyvtariKolcsonzes.Controllers.KonyvekController",
+    "Method": "Delete",
+    "RelativePath": "api/konyvek/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KonyvtariKolcsonzes.Controllers.KonyvekController",
+    "Method": "Kereses",
+    "RelativePath": "api/konyvek/kereses",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "szoveg",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KonyvtariKolcsonzes.Controllers.KonyvekController",
+    "Method": "GetSzabad",
+    "RelativePath": "api/konyvek/szabad",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KonyvtariKolcsonzes.Controllers.OlvasokController",
+    "Method": "GetAll",
+    "RelativePath": "api/olvasok",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KonyvtariKolcsonzes.Controllers.OlvasokController",
+    "Method": "Create",
+    "RelativePath": "api/olvasok",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "olvaso",
+        "Type": "KonyvtariKolcsonzes.Models.Olvaso",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KonyvtariKolcsonzes.Controllers.OlvasokController",
+    "Method": "GetById",
+    "RelativePath": "api/olvasok/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KonyvtariKolcsonzes.Controllers.OlvasokController",
+    "Method": "Update",
+    "RelativePath": "api/olvasok/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "adat",
+        "Type": "KonyvtariKolcsonzes.Models.Olvaso",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KonyvtariKolcsonzes.Controllers.OlvasokController",
+    "Method": "Delete",
+    "RelativePath": "api/olvasok/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KonyvtariKolcsonzes.Controllers.OlvasokController",
+    "Method": "GetKonyvek",
+    "RelativePath": "api/olvasok/{id}/konyvek",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KonyvtariKolcsonzes.Controllers.OlvasokController",
+    "Method": "GetKolcsonzok",
+    "RelativePath": "api/olvasok/kolcsonzok",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

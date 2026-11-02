@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2026_school\\II. semester\\Feladatok\\261102_Flotta_Libr\\2_feladat\\KonyvtariKolcsonzes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BDB0D2-A712-4761-99FE-F4F0EEF4C014}|KonyvtariKolcsonzes\\KonyvtariKolcsonzes.csproj|d:\\2026_school\\ii. semester\\feladatok\\261102_flotta_libr\\2_feladat\\konyvtarikolcsonzes\\konyvtarikolcsonzes\\konyvtarikolcsonzes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F7BDB0D2-A712-4761-99FE-F4F0EEF4C014}|KonyvtariKolcsonzes\\KonyvtariKolcsonzes.csproj|solutionrelative:konyvtarikolcsonzes\\konyvtarikolcsonzes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BDB0D2-A712-4761-99FE-F4F0EEF4C014}|KonyvtariKolcsonzes\\KonyvtariKolcsonzes.csproj|d:\\2026_school\\ii. semester\\feladatok\\261102_flotta_libr\\2_feladat\\konyvtarikolcsonzes\\konyvtarikolcsonzes\\controllers\\olvasokcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7BDB0D2-A712-4761-99FE-F4F0EEF4C014}|KonyvtariKolcsonzes\\KonyvtariKolcsonzes.csproj|solutionrelative:konyvtarikolcsonzes\\controllers\\olvasokcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BDB0D2-A712-4761-99FE-F4F0EEF4C014}|KonyvtariKolcsonzes\\KonyvtariKolcsonzes.csproj|d:\\2026_school\\ii. semester\\feladatok\\261102_flotta_libr\\2_feladat\\konyvtarikolcsonzes\\konyvtarikolcsonzes\\controllers\\konyvekcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7BDB0D2-A712-4761-99FE-F4F0EEF4C014}|KonyvtariKolcsonzes\\KonyvtariKolcsonzes.csproj|solutionrelative:konyvtarikolcsonzes\\controllers\\konyvekcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BDB0D2-A712-4761-99FE-F4F0EEF4C014}|KonyvtariKolcsonzes\\KonyvtariKolcsonzes.csproj|d:\\2026_school\\ii. semester\\feladatok\\261102_flotta_libr\\2_feladat\\konyvtarikolcsonzes\\konyvtarikolcsonzes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7BDB0D2-A712-4761-99FE-F4F0EEF4C014}|KonyvtariKolcsonzes\\KonyvtariKolcsonzes.csproj|solutionrelative:konyvtarikolcsonzes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BDB0D2-A712-4761-99FE-F4F0EEF4C014}|KonyvtariKolcsonzes\\KonyvtariKolcsonzes.csproj|d:\\2026_school\\ii. semester\\feladatok\\261102_flotta_libr\\2_feladat\\konyvtarikolcsonzes\\konyvtarikolcsonzes\\konyvtarcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7BDB0D2-A712-4761-99FE-F4F0EEF4C014}|KonyvtariKolcsonzes\\KonyvtariKolcsonzes.csproj|solutionrelative:konyvtarikolcsonzes\\konyvtarcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BDB0D2-A712-4761-99FE-F4F0EEF4C014}|KonyvtariKolcsonzes\\KonyvtariKolcsonzes.csproj|d:\\2026_school\\ii. semester\\feladatok\\261102_flotta_libr\\2_feladat\\konyvtarikolcsonzes\\konyvtarikolcsonzes\\models\\olvaso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7BDB0D2-A712-4761-99FE-F4F0EEF4C014}|KonyvtariKolcsonzes\\KonyvtariKolcsonzes.csproj|solutionrelative:konyvtarikolcsonzes\\models\\olvaso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BDB0D2-A712-4761-99FE-F4F0EEF4C014}|KonyvtariKolcsonzes\\KonyvtariKolcsonzes.csproj|d:\\2026_school\\ii. semester\\feladatok\\261102_flotta_libr\\2_feladat\\konyvtarikolcsonzes\\konyvtarikolcsonzes\\models\\konyv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7BDB0D2-A712-4761-99FE-F4F0EEF4C014}|KonyvtariKolcsonzes\\KonyvtariKolcsonzes.csproj|solutionrelative:konyvtarikolcsonzes\\models\\konyv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KonyvekController.cs",
+              "DocumentMoniker": "D:\\2026_school\\II. semester\\Feladatok\\261102_Flotta_Libr\\2_feladat\\KonyvtariKolcsonzes\\KonyvtariKolcsonzes\\Controllers\\KonyvekController.cs",
+              "RelativeDocumentMoniker": "KonyvtariKolcsonzes\\Controllers\\KonyvekController.cs",
+              "ToolTip": "D:\\2026_school\\II. semester\\Feladatok\\261102_Flotta_Libr\\2_feladat\\KonyvtariKolcsonzes\\KonyvtariKolcsonzes\\Controllers\\KonyvekController.cs",
+              "RelativeToolTip": "KonyvtariKolcsonzes\\Controllers\\KonyvekController.cs",
+              "ViewState": "AgIAAOkAAAAAAAAAAAAuwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T00:13:37.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OlvasokController.cs",
+              "DocumentMoniker": "D:\\2026_school\\II. semester\\Feladatok\\261102_Flotta_Libr\\2_feladat\\KonyvtariKolcsonzes\\KonyvtariKolcsonzes\\Controllers\\OlvasokController.cs",
+              "RelativeDocumentMoniker": "KonyvtariKolcsonzes\\Controllers\\OlvasokController.cs",
+              "ToolTip": "D:\\2026_school\\II. semester\\Feladatok\\261102_Flotta_Libr\\2_feladat\\KonyvtariKolcsonzes\\KonyvtariKolcsonzes\\Controllers\\OlvasokController.cs",
+              "RelativeToolTip": "KonyvtariKolcsonzes\\Controllers\\OlvasokController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T00:11:21.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KonyvtariKolcsonzes",
+              "DocumentMoniker": "D:\\2026_school\\II. semester\\Feladatok\\261102_Flotta_Libr\\2_feladat\\KonyvtariKolcsonzes\\KonyvtariKolcsonzes\\KonyvtariKolcsonzes.csproj",
+              "RelativeDocumentMoniker": "KonyvtariKolcsonzes\\KonyvtariKolcsonzes.csproj",
+              "ToolTip": "D:\\2026_school\\II. semester\\Feladatok\\261102_Flotta_Libr\\2_feladat\\KonyvtariKolcsonzes\\KonyvtariKolcsonzes\\KonyvtariKolcsonzes.csproj",
+              "RelativeToolTip": "KonyvtariKolcsonzes\\KonyvtariKolcsonzes.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-01T23:58:22.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\2026_school\\II. semester\\Feladatok\\261102_Flotta_Libr\\2_feladat\\KonyvtariKolcsonzes\\KonyvtariKolcsonzes\\Program.cs",
+              "RelativeDocumentMoniker": "KonyvtariKolcsonzes\\Program.cs",
+              "ToolTip": "D:\\2026_school\\II. semester\\Feladatok\\261102_Flotta_Libr\\2_feladat\\KonyvtariKolcsonzes\\KonyvtariKolcsonzes\\Program.cs",
+              "RelativeToolTip": "KonyvtariKolcsonzes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T23:44:21.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KonyvtarContext.cs",
+              "DocumentMoniker": "D:\\2026_school\\II. semester\\Feladatok\\261102_Flotta_Libr\\2_feladat\\KonyvtariKolcsonzes\\KonyvtariKolcsonzes\\KonyvtarContext.cs",
+              "RelativeDocumentMoniker": "KonyvtariKolcsonzes\\KonyvtarContext.cs",
+              "ToolTip": "D:\\2026_school\\II. semester\\Feladatok\\261102_Flotta_Libr\\2_feladat\\KonyvtariKolcsonzes\\KonyvtariKolcsonzes\\KonyvtarContext.cs",
+              "RelativeToolTip": "KonyvtariKolcsonzes\\KonyvtarContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAywA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T23:43:39.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Konyv.cs",
+              "DocumentMoniker": "D:\\2026_school\\II. semester\\Feladatok\\261102_Flotta_Libr\\2_feladat\\KonyvtariKolcsonzes\\KonyvtariKolcsonzes\\Models\\Konyv.cs",
+              "RelativeDocumentMoniker": "KonyvtariKolcsonzes\\Models\\Konyv.cs",
+              "ToolTip": "D:\\2026_school\\II. semester\\Feladatok\\261102_Flotta_Libr\\2_feladat\\KonyvtariKolcsonzes\\KonyvtariKolcsonzes\\Models\\Konyv.cs",
+              "RelativeToolTip": "KonyvtariKolcsonzes\\Models\\Konyv.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T23:36:57.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Olvaso.cs",
+              "DocumentMoniker": "D:\\2026_school\\II. semester\\Feladatok\\261102_Flotta_Libr\\2_feladat\\KonyvtariKolcsonzes\\KonyvtariKolcsonzes\\Models\\Olvaso.cs",
+              "RelativeDocumentMoniker": "KonyvtariKolcsonzes\\Models\\Olvaso.cs",
+              "ToolTip": "D:\\2026_school\\II. semester\\Feladatok\\261102_Flotta_Libr\\2_feladat\\KonyvtariKolcsonzes\\KonyvtariKolcsonzes\\Models\\Olvaso.cs",
+              "RelativeToolTip": "KonyvtariKolcsonzes\\Models\\Olvaso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T23:36:07.858Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
